@@ -1,0 +1,43 @@
+print("hello", "world")
+
+print("hello",  "mf", sep="___")
+
+print("Hello", end="")
+print("World")
+
+print("Hello \"friend\"")
+
+print("Hello\nWorld")
+
+print("____functions____")
+
+def hello():
+    print("Hello mf")
+
+hello()
+
+
+def add(a, b):
+    return a + b
+
+result = add(2, 3)
+print(result)
+
+"""print()
+input()
+int()
+float()
+str()
+len()
+
+name = "Python"
+print(len(name))
+==6"""
+
+
+def square(n):
+    return n * n
+
+number = int(input("Number: "))
+print(square(number))
+

@@ -1,2 +1,3 @@
 a=input("enter ur name :")
-print("hello", a)
+print(f"hello {a} ",end ="")
+print(69)
