@@ -10,3 +10,5 @@ def fun_function():
 fun_function()
 
 
+names=["bob", "jai", "ria"]
+print(type(names))
