@@ -19,3 +19,7 @@ print(f"age is {age}")
 
 
 z=10
+z1=20
+
+
+
