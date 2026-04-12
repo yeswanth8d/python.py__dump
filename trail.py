@@ -23,5 +23,6 @@ print(f"age is {age}")
 z=10
 z1=20
 z3=30
+z4=40
 
 
