@@ -24,5 +24,9 @@ z=10
 z1=20
 z3=30
 z4=40
+z5=50
 
+
+if z1 > z:
+   print("z1 is big")
 
