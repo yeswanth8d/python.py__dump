@@ -12,6 +12,7 @@ def fun_function():
 fun_function()
 
 
+
 names=["bob", "jai", "ria"]
 print(type(names))
 
@@ -25,6 +26,8 @@ z1=20
 z3=30
 z4=40
 z5=50
+z6=60
+
 
 
 if z1 > z:
