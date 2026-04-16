@@ -16,6 +16,7 @@ names=["bob", "jai", "ria"]
 print(type(names))
 
 
+
 age=int(input("whats ur age"))
 print(f"age is {age}")
 
