@@ -1,10 +1,8 @@
 a=input("enter ur name :")
 print(f"hello {a} ",end ="")
 print(69)
-.
 
-
-#functions
+#functions, 
 def fun_function():
 	a=int(input("num= "))
 	return a
@@ -21,6 +19,7 @@ age=int(input("whats ur age"))
 print(f"age is {age}")
 
 
+
 z=10
 z1=20
 z3=30
@@ -33,8 +32,5 @@ z8=80
 
 if z1 > z:
    print("z1 is big")
-
-
-
 
 
