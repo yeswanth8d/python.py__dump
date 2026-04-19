@@ -14,10 +14,8 @@ names=["bob", "jai", "ria"]
 print(type(names))
 
 
-
 age=int(input("whats ur age"))
 print(f"age is {age}")
-
 
 
 z=10
@@ -32,5 +30,3 @@ z8=80
 
 if z1 > z:
    print("z1 is big")
-
-
