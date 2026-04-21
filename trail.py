@@ -33,9 +33,3 @@ z9=90
 
 if z1 > z:
    print("z1 is big")
-
-
-
-
-
-
