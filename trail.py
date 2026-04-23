@@ -3,13 +3,15 @@ print(f"hello {a} ",end ="")
 print(69)
 
 
-#functions,     
+#functions,  
+
 
 def fun_function():
 	a=int(input("num= "))
 	return a
 
 fun_function()
+
 
 
 names=["bob", "jai", "ria"]
@@ -33,3 +35,5 @@ z9=90
 
 if z1 > z:
    print("z1 is big")
+
+
