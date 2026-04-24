@@ -3,7 +3,9 @@ print(f"hello {a} ",end ="")
 print(69)
 
 
-#functions,  
+
+#functions,     
+
 
 
 def fun_function():
@@ -31,6 +33,9 @@ z6=60
 z7=70
 z8=80
 z9=90
+z10=100
+
+
 
 
 if z1 > z:
