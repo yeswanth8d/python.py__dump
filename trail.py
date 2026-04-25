@@ -3,10 +3,7 @@ print(f"hello {a} ",end ="")
 print(69)
 
 
-
 #functions,     
-
-
 
 def fun_function():
 	a=int(input("num= "))
