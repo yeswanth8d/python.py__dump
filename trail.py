@@ -3,6 +3,7 @@ print(f"hello {a} ",end ="")
 print(69)
 
 
+
 #functions,     
 
 def fun_function():
@@ -32,6 +33,6 @@ z9=90
 z10=100
 
 
+
 if z1 > z:
    print("z1 is big")
-
