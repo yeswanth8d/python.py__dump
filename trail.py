@@ -10,11 +10,8 @@ def fun_function():
 
 fun_function()
 
-
-
 names=["bob", "jai", "ria"]
 print(type(names))
-
 
 age=int(input("whats ur age"))
 print(f"age is {age}")
@@ -30,7 +27,7 @@ z8=80
 z9=90
 z10=100
 
-
-
 if z1 > z:
    print("z1 is big")
+
+
