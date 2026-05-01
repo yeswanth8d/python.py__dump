@@ -2,7 +2,11 @@ a=input("enter ur name :")
 print(f"hello {a} ",end ="")
 print(69)
 
-#functions, 
+
+
+#functions,     
+
+
 
 
 def fun_function():
@@ -30,4 +34,3 @@ z10=100
 
 if z1 > z:
    print("z1 is big")
-
